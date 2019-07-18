@@ -5,5 +5,8 @@ To increase speed of data analysis immediately prior to an experiment raw acquis
 
 This repository contains software to interface with PrairieView and acquire data as well as utilites to read and write to the custom (binary) file format.
 
+Online image registration added by [Henry Dalgeliesh](https://github.com/hwpdalgleish/) using [Suite2p](https://github.com/cortex-lab/Suite2P) functions.
+
+
 ## Interface
 ![screenshot](https://i.imgur.com/QuaGNjK.png)
